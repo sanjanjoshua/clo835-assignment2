@@ -28,6 +28,6 @@ spec:
             - name: DATABASE
               value: "employees"
             - name: APP_COLOR
-              value: "blue"
+              value: "red"
           ports:
             - containerPort: 8080
