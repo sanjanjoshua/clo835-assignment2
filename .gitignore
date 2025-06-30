@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.db
+*.pem
+*.key
+*.crt
+*.DS_Store
